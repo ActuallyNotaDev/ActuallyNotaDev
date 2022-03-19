@@ -1,5 +1,5 @@
 ThingsILove = {<br>
-</t>🕹️ videogames;<br>
-</t>⌨️ coding;<br>
-</t>🎸 punk;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;🕹️ videogames;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;⌨️ coding;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;🎸 punk;<br>
   }<br>
