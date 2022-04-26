@@ -1,1 +1,1 @@
-![Alt Text](https://giphy.com/embed/joYf3Ba2phD15ch9Nt)
+![Alt Text](https://github.com/ActuallyNotaDev/ActuallyNotaDev/blob/main/giphy.gif)
